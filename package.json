@@ -1,0 +1,19 @@
+{
+  "name": "parcelAgain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^3.5.1",
+    "install": "^0.13.0",
+    "simple-number-formatter": "^1.0.0",
+    "snackbar": "^1.1.0"
+  }
+}
